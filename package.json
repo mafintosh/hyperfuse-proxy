@@ -1,0 +1,28 @@
+{
+  "name": "hyperfuse-proxy",
+  "version": "0.0.0",
+  "description": "hyperfuse backed filesystem that proxies to a local folder",
+  "bin": {
+    "hyperfuse-proxy": "./bin.js"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "hyperfuse": "^0.1.0",
+    "mknod": "^1.1.0"
+  },
+  "devDependencies": {
+    "standard": "^5.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/hyperfuse-proxy.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/hyperfuse-proxy/issues"
+  },
+  "homepage": "https://github.com/mafintosh/hyperfuse-proxy"
+}
