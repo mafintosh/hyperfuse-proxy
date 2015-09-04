@@ -1,6 +1,6 @@
 {
   "name": "hyperfuse-proxy",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "hyperfuse backed filesystem that proxies to a local folder",
   "bin": {
     "hyperfuse-proxy": "./bin.js"
